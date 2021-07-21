@@ -1,0 +1,36 @@
+
+
+
+.app-wrapper{
+  display: grid;
+  grid-template-areas:
+  "h h"
+  "n c ";
+  grid-template-rows: 50px 1fr;
+  grid-template-columns: 2fr 10fr;
+  grid-gap: 10px;
+  margin: 0 auto;
+  width: 1200px;
+
+}
+
+.app-wrapper-content{
+  grid-area: c;
+  background-color: #95DCFF;
+}
+
+.content{
+  grid-area: c;
+  background-color: #95DCFF;
+  /* background: url("https://st.depositphotos.com/1746040/3253/v/950/depositphotos_32537627-stock-illustration-seamless-vector-background-with-shopping.jpg") ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+   */
+}
+
+.content img{
+  width: 100%;
+  height: 300px;
+  opacity: 30%;
+}

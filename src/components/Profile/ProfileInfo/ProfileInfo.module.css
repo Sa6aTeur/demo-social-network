@@ -1,0 +1,17 @@
+.topImage img{
+  max-height: 300px;
+  width: 100%;
+}
+
+.descriptionBlock{
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.userImg{
+  max-width: 300px;
+}
+
+.contact{
+  padding-left: 20px;
+}

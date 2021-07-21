@@ -1,0 +1,15 @@
+.content img{
+  width: 100%;
+  height: 300px;
+  opacity: 100%;
+}
+
+.postBlock{
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.submitButton{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

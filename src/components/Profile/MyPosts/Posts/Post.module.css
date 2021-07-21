@@ -1,0 +1,25 @@
+.item img{
+  display: inline-block;
+ max-width: 40px;
+ max-height: 40px;
+ opacity: 100%;
+}
+.item p{
+  display: inline-block;
+}
+
+
+.likeCount{
+  font-style: italic;
+  margin-left: 15px;
+  font-size: 12px;
+}
+
+.likeCount{
+  color: red;
+  font-size: 14px;
+  font-style: normal;
+  border-left: 1px solid red;
+  margin-left: 5px;
+  padding-left: 3px;
+}

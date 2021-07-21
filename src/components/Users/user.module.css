@@ -1,0 +1,23 @@
+.mainWrap { 
+  margin-top: 10px
+}
+
+.avatarWrap { 
+  text-align: center;
+}
+
+.avatar{ 
+  margin-bottom: 4px;
+  margin-right: 5px;
+}
+
+.name { 
+  font-weight: bold;
+  color: black;
+  font-size: 16px
+}
+
+.status { 
+  font-weight: bold;
+  color: gray;
+}
